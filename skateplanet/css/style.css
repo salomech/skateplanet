@@ -1,0 +1,55 @@
+.service {
+	height: 250px;
+	border: 1px solid brown;
+	background-color:#bdbdc9;
+}
+img{
+	width: 100%;
+    object-fit: cover;
+	height: 550px;
+}
+nav{
+	font-family: "ALK Life", sans-serif;
+}
+.services .container{
+ font-family: 'Charmonman';
+}
+.icons{
+	font-size:45px;
+	color:green;
+	padding-left:500px;
+}
+.icons:hover{
+	
+	color:blue;
+}
+.cont{
+	padding-left: 400px;
+	padding-top: 30px;
+}
+.service img {
+	height: 100px;
+	width: 35px;
+}
+.btn{
+	padding-right:100px;
+	font-size: 20px;
+
+}
+.send-bg {
+	background-color: green;
+		}
+
+.send-bg:hover{
+background-color:red;
+}
+
+/*.banner{
+	position: absolute;
+	top: 20%;
+	font-size: 30px;
+	background-color: green;
+}
+/*.text-on-image{
+	position: absolute;
+}*/*/

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Charmonman';
+    src: url('Charmonman-Bold.woff2') format('woff2'),
+        url('Charmonman-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
