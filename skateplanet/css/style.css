@@ -1,22 +1,32 @@
+
+.boo{
+	background-color:#409624;
+}
+.text1{
+	text-align: center;
+}
 .service {
 	height: 250px;
-	border: 1px solid brown;
-	background-color:#bdbdc9;
+	width: 100%;
+	border: 1px;
+	border-color: red;
+	background-color:#d0e1ed;
 }
-img{
+/*img{
 	width: 100%;
     object-fit: cover;
 	height: 550px;
-}
+}*/
 nav{
 	font-family: "ALK Life", sans-serif;
 }
+
 .bg-info {
 	font-size: 35px;
 	padding-left: 20px;
 }
 .services .container{
- font-family: 'Charmonman';
+ font-family: 'Roboto';
 }
 .icons{
 	font-size:46px;
@@ -62,6 +72,11 @@ nav{
 .send-bg:hover{
 background-color:red;
 }
+
+@media(max-width: 700px){
+	.about-us-text{
+		flex-direction: column;
+	}
 
 /*.banner{
 	position: absolute;
